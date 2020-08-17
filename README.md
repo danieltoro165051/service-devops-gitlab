@@ -1,0 +1,2 @@
+# service-devops-gitlab
+Manifiestos
